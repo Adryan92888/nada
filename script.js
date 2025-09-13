@@ -6,7 +6,7 @@ const lojas = [
     {
         id: 1,
         nome: "Rogers Burguer",
-        logo: "imagens/rogers.png", // Use um link ou um caminho local como "imagens/renner.png"
+        logo: "imagens/Rogers.PNG", // Use um link ou um caminho local como "imagens/renner.png"
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -327,4 +327,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     init(); // Inicia tudo!
+
 });
