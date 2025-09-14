@@ -26,7 +26,7 @@ const lojas = [
     {
         id: 3,
         nome: "MiniMak Sushi",
-        logo: "imagens/MINIMAKI.png",
+        logo: "imagens/MINIMAKI.PNG",
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -36,7 +36,7 @@ const lojas = [
     {
         id: 4,
         nome: "Sr. Pastelli",
-        logo: "imagens/pastelli.png",
+        logo: "imagens/pastelli.PNG",
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -46,7 +46,7 @@ const lojas = [
 {
         id: 5,
         nome: "Pizzaria Benvenutti",
-        logo: "imagens/benvenutti.png",
+        logo: "imagens/Benvenutti.png",
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -67,7 +67,7 @@ const lojas = [
     {
         id: 7,
         nome: "GranChef",
-        logo: "imagens/granchef.png",
+        logo: "imagens/granchef.PNG",
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -77,7 +77,7 @@ const lojas = [
      {
         id: 8,
         nome: "JB Lanches",
-        logo: "imagens/jblanches.png",
+        logo: "imagens/jblanches.PNG",
         categoria: "Praça de Alimentação",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -88,7 +88,7 @@ const lojas = [
     {
         id: 9,
         nome: "Flover Esmalteria",
-        logo: "imagens/flover.png",
+        logo: "imagens/flover.PNG",
         categoria: "Estética",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -99,7 +99,7 @@ const lojas = [
     {
         id: 10,
         nome: "Grupo Teeb",
-        logo: "imagens/teeb.png",
+        logo: "imagens/teeb.PNG",
         categoria: "Internet e Segurança",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -110,7 +110,7 @@ const lojas = [
 {
         id: 11,
         nome: "ML Cosmetics",
-        logo: "imagens/mlcosmetics.png",
+        logo: "imagens/mlcosmetics.PNG",
         categoria: "Estética",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -121,7 +121,7 @@ const lojas = [
     {
     id: 12,
         nome: "Blackfit",
-        logo: "imagens/blackfit.png",
+        logo: "imagens/Blackfit.PNG",
         categoria: "Academia e Suplementos",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -132,7 +132,7 @@ const lojas = [
      {
     id: 13,
         nome: "Bruttus Barbearia",
-        logo: "imagens/bruttus.png",
+        logo: "imagens/bruttus.PNG",
         categoria: "Barbearia",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -143,7 +143,7 @@ const lojas = [
      {
     id: 14,
         nome: "Casa Nóbrega Home Decor",
-        logo: "imagens/nobrega.png",
+        logo: "imagens/nobrega.PNG",
         categoria: "Para Seu Lar",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -165,7 +165,7 @@ const lojas = [
     {
     id: 16,
         nome: "Cine Ibiapaba",
-        logo: "imagens/cine.png",
+        logo: "imagens/cine.PNG",
         categoria: "Cinema",
         horario1: "10:00 - 22:00", // <-- NOVO CAMPO
         horario2: "10:00 - 22:00", // <-- NOVO CAMPO
@@ -329,3 +329,4 @@ document.addEventListener("DOMContentLoaded", () => {
     init(); // Inicia tudo!
 
 });
+
